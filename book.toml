@@ -1,0 +1,13 @@
+[book]
+title = "T4n Tech Documentation"
+authors = ["T4n Tech"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+site-url = "/t4n-docs/"
+git-repository-url = "https://github.com/t4n-tech/t4n-doc"
+edit-url-template = "https://github.com/t4n-tech/t4n-docs/edit/main/{path}"
