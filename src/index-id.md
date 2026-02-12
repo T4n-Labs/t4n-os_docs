@@ -1,27 +1,17 @@
-# Selamat Datang di Dokumentasi T4n Tech
+# 📘 T4n OS Documentation
 
-T4n Tech adalah Company teknologi terbuka yang berfokus pada pembangunan:
+## Apa itu T4n OS Docs?
 
-- T4n OS
-- VUR - Void User Repository
+T4n OS Docs adalah pusat dokumentasi resmi untuk sistem operasi T4n OS.
+Tempat ini dirancang untuk membantu pengguna memahami, menggunakan, dan mengembangkan T4n OS dengan cara yang sederhana, terstruktur, dan profesional.
 
-Misi kami:
+Dokumentasi ini mencakup:
 
-> Membuat teknologi yang kompleks menjadi sederhana dan mudah diakses.
+* Panduan instalasi dan penggunaan
+* Manajemen package
+* Konsep arsitektur sistem
+* Panduan pengembangan dan kontribusi
+* Best practice dan keamanan
 
-## 🛠️ Proyek
+Tujuan utamanya adalah menjadikan T4n OS mudah dipahami oleh siapa pun — baik pemula Linux maupun pengguna tingkat lanjut.
 
-### T4n OS
-T4n OS adalah GNU Linux berbasis Void Linux, dirancang dengan prinsip minimalis, cepat, dan ringan. T4n OS menggunakan runit sebagai init system untuk performa dan kontrol.Website :
-- Web-ID : [Overview](./t4n-os/id/intro.md)
-- Web-EN : [Overview](./t4n-os/en/intro.md)
-
-### VUR (Void User Repository)
-VUR (Void User Repository) merupakan repository berbasis komunitas yang terinspirasi dari Arch User Repository (AUR). VUR hadir untuk melengkapi kekurangan repository resmi dengan menyediakan template dan paket tambahan yang tidak tersedia secara default.
-- Web-ID : [Overview](./vur/id/intro.md)
-- Web-EN : [Overview](./vur/en/intro.md)
-
-## 🌍 Filosofi
-
-- Keep Things Simple
-- Suatu Hal Sulit Menjadi Mudah
