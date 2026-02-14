@@ -62,5 +62,5 @@
       - [Pulseaudio]()
         - [Pulseaudio Noise]()
     - [Package Manager]()
-      - [XBPS]
-      - [Let]
+      - [XBPS]()
+      - [Let]()
