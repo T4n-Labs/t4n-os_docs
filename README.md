@@ -1,6 +1,6 @@
 # T4n Tech Documentation
-Repositori dokumentasi resmi untuk ekosistem T4n Tech.
+Repositori dokumentasi resmi untuk T4n OS.
 
 # Website
 Documentation Website :
-- https://t4n-tech.github.io/t4n-doc/
+- https://t4n-labs.github.io/t4n-os_doc/
