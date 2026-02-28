@@ -1,13 +1,13 @@
 [book]
 title = "T4n OS Documentation"
 authors = ["T4n Tech"]
-language = "en"
+language = "id"
 multilingual = false
 src = "src"
 
 [output.html]
 default-theme = "navy"
 preferred-dark-theme = "navy"
-site-url = "/t4n-docs/"
-git-repository-url = "https://github.com/t4n-tech/t4n-doc"
-edit-url-template = "https://github.com/t4n-tech/t4n-docs/edit/main/{path}"
+site-url = "/t4n-os_docs/"
+git-repository-url = "https://github.com/T4n-Labs/t4n-os_doc"
+edit-url-template = "https://github.com/T4n-Labs/t4n-os_docs/edit/main/{path}"
