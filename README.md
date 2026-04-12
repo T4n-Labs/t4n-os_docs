@@ -1,4 +1,4 @@
-# T4n Tech Documentation
+# T4n Labs Documentation
 Repositori dokumentasi resmi untuk T4n OS.
 
 # Website
