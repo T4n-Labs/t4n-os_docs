@@ -13,3 +13,6 @@ Dokumentasi ini mencakup:
 
 Tujuan utamanya adalah menjadikan T4n OS mudah dipahami oleh siapa pun — baik pemula Linux maupun pengguna tingkat lanjut.
 
+---
+@T4n-Labs
+@Gh0sT4n
