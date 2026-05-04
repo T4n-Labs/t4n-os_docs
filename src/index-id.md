@@ -9,10 +9,17 @@ Dokumentasi ini mencakup:
 
 * Panduan Instalasi & Penggunaan
 * Troubleshooting
+* Hal Yang Terkait T4n OS
 * Panduan Pengembangan & Kontribusi
 
 Tujuan utamanya adalah menjadikan T4n OS mudah dipahami oleh siapa pun — baik pemula Linux maupun pengguna tingkat lanjut.
 
+> !NOTE! : Dokumentasi ini masih belum rapi dan bagus, mohon dimaklumi karena gw nge solo buat nya
+
 ---
-@T4n-Labs
-@Gh0sT4n
+
+<div align="center">
+
+[@T4n-Labs](https://t4n-labs.github.io/site) · [@Gh0sT4n](https://gh0st4n.github.io/site)
+
+</div>
