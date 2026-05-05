@@ -6,7 +6,7 @@ multilingual = false
 src = "src"
 
 [output.html]
-theme = "src/theme"
+theme = "src/zother"
 default-theme = "navy"
 preferred-dark-theme = "navy"
 site-url = "/t4n-os_docs/"
