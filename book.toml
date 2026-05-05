@@ -6,8 +6,10 @@ multilingual = false
 src = "src"
 
 [output.html]
+theme = "src/theme"
 default-theme = "navy"
 preferred-dark-theme = "navy"
 site-url = "/t4n-os_docs/"
 git-repository-url = "https://github.com/T4n-Labs/t4n-os_docs"
 edit-url-template = "https://github.com/T4n-Labs/t4n-os_docs/edit/main/{path}"
+input-404 = "404.md"
