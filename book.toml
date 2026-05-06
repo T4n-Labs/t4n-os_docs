@@ -1,15 +1,16 @@
 [book]
 title = "T4n OS Documentation"
 authors = ["T4n Labs"]
-language = "id"
-multilingual = false
 src = "src"
 
 [output.html]
-theme = "src/zother"
-default-theme = "navy"
-preferred-dark-theme = "navy"
+theme = "src/theme"
+default-theme = "void-dark"
+preferred-dark-theme = "void-dark"
 site-url = "/t4n-os_docs/"
-git-repository-url = "https://github.com/T4n-Labs/t4n-os_docs"
+git-repository-url = "https://github.com/T4n-Labs/"
 edit-url-template = "https://github.com/T4n-Labs/t4n-os_docs/edit/main/{path}"
 input-404 = "404.md"
+
+[output.typst.output]
+format = "pdf"
