@@ -11,6 +11,3 @@ site-url = "/t4n-os_docs/"
 git-repository-url = "https://github.com/T4n-Labs/"
 edit-url-template = "https://github.com/T4n-Labs/t4n-os_docs/edit/main/{path}"
 input-404 = "404.md"
-
-[output.typst.output]
-format = "pdf"
