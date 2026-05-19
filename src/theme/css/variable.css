@@ -6,23 +6,23 @@
 	--page-padding: 15px;
 	--content-max-width: 750px;
 	--menu-bar-height: 50px;
-	--void-green: #478061;
-	--void-dark-green: #62b086;
-	--void-light: #fafafa;
-	--void-dark: #252525;
+	--t4n-green: #478061;
+	--t4n-dark-green: #62b086;
+	--t4n-light: #fafafa;
+	--t4n-dark: #252525;
 }
 
 /* Themes */
 
-.void-light {
+.t4n-light {
 	--bg: #ffffff;
 	--fg: #333;
 
-	--sidebar-bg: var(--void-light);
+	--sidebar-bg: var(--t4n-light);
 	--sidebar-fg: var(--fg);
 	--sidebar-active: var(--links);
 
-	--nav-bg: var(--void-green);
+	--nav-bg: var(--t4n-green);
 	--nav-fg: var(--bg);
 	--nav-arrow-fg: var(--fg);
 	--nav-fg-hover: #000;
@@ -32,7 +32,7 @@
 	--icons: #737480;
 	--icons-hover: #b7b9cc;
 
-	--links: var(--void-green);
+	--links: var(--t4n-green);
 	--links-hover: var(--fg);
 
 	--inline-code-color: #fdf6e3;
@@ -45,10 +45,10 @@
 	--quote-border: #d1e6da;
 	--quote-code-bg: var(--inline-code-color);
 
-	--table-border-color: var(--void-green);
-	--table-header-bg: var(--void-green);
+	--table-border-color: var(--t4n-green);
+	--table-header-bg: var(--t4n-green);
 	--table-header-fg: #fff;
-	--table-alternate-bg: var(--void-light);
+	--table-alternate-bg: var(--t4n-light);
 
 	--searchbar-border-color: #aaa;
 	--searchbar-bg: var(--bg);
@@ -60,7 +60,7 @@
 	--search-mark-bg: #e3b171;
 }
 
-.void-dark {
+.t4n-dark {
 	--bg: #222;
 	--fg: #ccc;
 
@@ -91,8 +91,8 @@
 	--quote-border: #22362e;
 	--quote-code-bg: #2a2a2a;
 
-	--table-border-color: var(--void-green);
-	--table-header-bg: var(--void-green);
+	--table-border-color: var(--t4n-green);
+	--table-header-bg: var(--t4n-green);
 	--table-header-fg: #fff;
 	--table-alternate-bg: #2c2c2c;
 

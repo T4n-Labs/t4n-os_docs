@@ -8,12 +8,12 @@ window.onunload = function () { };
     var themeToggleButton = document.getElementById("theme-toggle");
 
     themeToggleButton.addEventListener('click', function sidebarToggle() {
-        if (html.classList.contains("void-light")) {
-            html.classList.replace("void-light", "void-dark");
-            localStorage.setItem('mdbook-theme', "void-dark");
+        if (html.classList.contains("t4n-light")) {
+            html.classList.replace("t4n-light", "t4n-dark");
+            localStorage.setItem('mdbook-theme', "t4n-dark");
         } else {
-            html.classList.replace("void-dark", "void-light");
-            localStorage.setItem('mdbook-theme', "void-light");
+            html.classList.replace("t4n-dark", "t4n-light");
+            localStorage.setItem('mdbook-theme', "t4n-light");
         }
     });
 })();

@@ -98,9 +98,9 @@ svg {
 	padding: 1em;
 }
 
-/* void navigation */
+/* T4n navigation */
 
-#void-nav {
+#t4n-nav {
 	width: 100%;
 	min-height: 50px;
 	background: var(--nav-bg);
@@ -110,9 +110,9 @@ svg {
 	flex-direction: row;
 	flex-wrap: wrap;
 }
-#void-nav a,
-#void-nav button,
-#void-nav label {
+#t4n-nav a,
+#t4n-nav button,
+#t4n-nav label {
 	fill: var(--nav-fg);
 	height: 50px;
 	min-height: 100%;
@@ -121,20 +121,20 @@ svg {
 	padding: 0 15px;
 	font-size: 1.2em;
 }
-#void-nav ul {
+#t4n-nav ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-#void-nav ul#nav-right {
+#t4n-nav ul#nav-right {
 	margin-left: auto;
 }
 
-#void-nav ul li {
+#t4n-nav ul li {
 	display: inline-block;
 }
-#void-nav ul li a {
+#t4n-nav ul li a {
 	color: var(--nav-fg);
 	display: block;
 	padding: 0 15px;
@@ -142,12 +142,12 @@ svg {
 	font-size: 1.2em;
 	text-decoration: none
 }
-#void-nav ul li a:hover,
-#void-nav ul li a:focus,
-#void-nav button:hover,
-#void-nav button:focus,
-#void-nav label:hover,
-#void-nav label:focus {
+#t4n-nav ul li a:hover,
+#t4n-nav ul li a:focus,
+#t4n-nav button:hover,
+#t4n-nav button:focus,
+#t4n-nav label:hover,
+#t4n-nav label:focus {
 	background: #000;
 }
 
