@@ -2,18 +2,20 @@
 
 ## Apa itu T4n OS Docs?
 
-T4n OS Docs adalah pusat dokumentasi resmi untuk sistem operasi T4n OS.
+T4n OS Docs adalah pusat dokumentasi resmi untuk sistem operasi **T4n OS**.
 Dokumentasi ini dirancang untuk membantu pengguna memahami, menggunakan, dan mengembangkan T4n OS dengan cara yang sederhana, terstruktur, dan profesional.
 
-Dokumentasi ini mencakup:
+### Dokumentasi ini mencakup
 
-* Panduan Instalasi & Penggunaan
-* Troubleshooting
-* Hal Yang Terkait T4n OS
+- Panduan Instalasi & Penggunaan
+- Troubleshooting
+- Hal-hal yang Berkaitan dengan T4n OS
 
-Tujuan utamanya adalah menjadikan T4n OS mudah dipahami oleh siapa pun, baik pemula Linux maupun pengguna tingkat lanjut.
+### Tujuan
 
-> !NOTE! : Dokumentasi ini masih belum rapi dan bagus, mohon dimaklumi karena gw nge solo buat nya
+Menjadikan T4n OS mudah dipahami oleh siapa pun — baik pemula Linux maupun pengguna tingkat lanjut.
+
+> **⚠️ Catatan:** Dokumentasi ini masih dalam tahap pengembangan dan belum sepenuhnya sempurna. Mohon dimaklumi karena saat ini dikerjakan secara solo. Kontribusi dan masukan sangat diterima!
 
 ---
 
