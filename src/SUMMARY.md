@@ -35,7 +35,7 @@
   - [Kernel](./03/09.md)
   - [Manajemen Daya](./03/10.md)
   - [Jaringan](./03/04Jaringan/01.md)
-    - [Firewall](./04/03Jaringan/02.md)
+    - [Firewall](./03/03Jaringan/02.md)
     - [IWD](./03/04Jaringan/03.md)
     - [ConnMan](./03/04Jaringan/04.md)
     - [NetworkManager](./03/04Jaringan/05.md)
