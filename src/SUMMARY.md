@@ -3,7 +3,6 @@
 - [Beranda](./index-id.md)
   - [Pengenalan](./01/01.md)
   - [Sejarah](./01/02.md)
-  - [InfraDocs](./01/03.md)
 - [Instalasi](./02/01.md)
   - [Panduan Beginner](./02/Beginner/01.md)
     - [Persiapan Media](./02/Beginner/02.md)
