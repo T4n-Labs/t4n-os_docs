@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://t4nos-docs.t4nlabs.web.id/sitemap.xml
