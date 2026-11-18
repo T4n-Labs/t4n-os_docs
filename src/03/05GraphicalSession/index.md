@@ -2,7 +2,7 @@
 
 Sesi grafis adalah lingkungan desktop interaktif yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui antarmuka visual. Dokumen ini mencakup konfigurasi driver grafis, pemilihan display server, hingga pemasangan desktop environment di T4n OS.
 
-## Driver Grafis
+## 1. Driver Grafis
 
 Konfigurasi driver untuk kartu grafis yang digunakan.
 
@@ -11,7 +11,7 @@ Konfigurasi driver untuk kartu grafis yang digunakan.
 - [NVIDIA](./DRIVER/04.md)
 - [NVIDIA Optimus](./DRIVER/05.md)
 
-## Session (Display Server)
+## 2. Session (Display Server)
 
 Pilih display server yang akan digunakan sebagai fondasi sesi grafis.
 
@@ -19,12 +19,12 @@ Pilih display server yang akan digunakan sebagai fondasi sesi grafis.
 - [Wayland](./SESSIONS/03.md) — Display server modern, keamanan lebih baik.
 - [XDG Desktop Portal](./SESSIONS/04.md) — Komponen layanan sesi grafis.
 
-## GUI Core
+## 3. GUI Core
 
 - [XFCE](./GUI-CORE/02.md) — Desktop environment ringan berbasis X11.
 - [XFCE Wayland](./GUI-CORE/03.md) — XFCE dengan dukungan Wayland.
 
-## GUI Extra
+## 4. GUI Extra
 
 Kustomisasi tampilan sistem.
 

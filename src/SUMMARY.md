@@ -119,4 +119,4 @@
   - [Keamanan & etika](./vur/05.md)
   - [Maintainer VUR](./vur/dev/00.md)
     - [Cara Berkontribusi](./vur/dev/01.md)
-    - [Panduan Tempalte](./vur/dev/02.md)
+    - [Panduan Template](./vur/dev/02.md)
