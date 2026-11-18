@@ -4,7 +4,7 @@ import { buildSidebar } from './sidebar'
 
 const sourceDir = fileURLToPath(new URL('..', import.meta.url))
 
-const repository = 'https://github.com/T4n-Labs/t4n-os_docs'
+const repository = 'https://github.com/T4n-Labs'
 
 export default defineConfig({
   lang: 'id-ID',
@@ -29,12 +29,10 @@ export default defineConfig({
     siteTitle: 'T4n OS Docs',
     sidebar: buildSidebar(sourceDir),
     nav: [
-      { text: 'Beranda', link: 'https://t4n-labs.github.io/t4n-os' },
-      { text: 'News', link: 'https://t4n-labs.github.io/t4n-os/news/EN/news.html' },
-      { text: 'Download', link: 'https://t4n-labs.github.io/t4n-os/#download' },
-      { text: 'Packages', link: 'https://www.voidlinux.org/packages/' },
+      { text: 'Beranda', link: 'https://t4nos.t4nlabs.web.id/' },
+      { text: 'Download', link: 'https://t4nos.t4nlabs.web.id/#download' },
+      { text: 'Packages', link: 'https://repo.t4nlabs.web.id/' },
       { text: 'Manual Pages', link: 'https://man.voidlinux.org/' },
-      { text: 'GitHub', link: 'https://github.com/T4n-Labs' }
     ],
     socialLinks: [{ icon: 'github', link: repository }],
     editLink: {

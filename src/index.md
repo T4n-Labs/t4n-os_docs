@@ -13,14 +13,14 @@ Dokumentasi ini dirancang untuk membantu pengguna memahami, menggunakan, dan men
 
 ### Tujuan
 
-Menjadikan T4n OS mudah dipahami oleh siapa pun — baik pemula Linux maupun pengguna tingkat lanjut.
+Menjadikan T4n OS mudah dipahami oleh siapa pun, baik pemula Linux maupun pengguna tingkat lanjut.
 
-> **⚠️ Catatan:** Dokumentasi ini masih dalam tahap pengembangan dan belum sepenuhnya sempurna. Mohon dimaklumi karena saat ini dikerjakan secara solo. Kontribusi dan masukan sangat diterima!
+> **⚠️ Catatan:** Dokumentasi ini masih dalam tahap pengembangan dan belum sepenuhnya sempurna. Mohon dimaklumi karena saat ini dikerjakan secara mandiri. Kontribusi dan masukan sangat diterima!
 
 ---
 
 <div align="center">
 
-[@T4n-Labs](https://t4n-labs.github.io/site) · [@Gh0sT4n](https://gh0st4n.github.io/site)
+[@T4n-Labs](https://t4nlabs.web.id) · [@Gh0sT4n](https://gh0st4n.my.id)
 
 </div>
