@@ -1,4 +1,4 @@
-# 📘 T4n OS Documentation
+# T4n OS Docs
 
 ## Apa itu T4n OS Docs?
 
