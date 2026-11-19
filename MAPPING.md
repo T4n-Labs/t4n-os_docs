@@ -68,25 +68,25 @@ Sumber = path di void-docs/src (read-only) atau keterangan khas T4n OS.
 | 03/06CLI/01.md | CLI | — (pengantar khas T4n OS) | stub (12 baris) |
 | 03/06CLI/02.md | Base | — (khas T4n OS) | draft (84 baris) |
 | 03/06CLI/03.md | Server | — (BELUM ADA FILENYA, WAJIB DIBUAT) | stub (0 baris) |
-| 03/07Multimedia/01.md | Multimedia | media/index.md | stub (25 baris) |
-| 03/07Multimedia/02.md | ALSA | media/alsa.md | draft (94 baris) |
-| 03/07Multimedia/03.md | Pipewire | media/pipewire.md | draft (128 baris) |
-| 03/07Multimedia/04.md | Pulseaudio | media/pulseaudio.md | draft (65 baris) |
+| 03/06Multimedia/01.md | Multimedia | media/index.md | stub (25 baris) |
+| 03/06Multimedia/02.md | ALSA | media/alsa.md | draft (94 baris) |
+| 03/06Multimedia/03.md | Pipewire | media/pipewire.md | draft (128 baris) |
+| 03/06Multimedia/04.md | Pulseaudio | media/pulseaudio.md | draft (65 baris) |
 | 03/13.md | Bluetooth | bluetooth.md | draft (106 baris) |
 | 03/14.md | TeX Live | texlive.md | draft (128 baris) |
 | 03/15.md | External Applications | external-applications.md | draft (150 baris) |
 | 03/16.md | Printing | print/index.md | draft (126 baris) |
-| 03/08Container-VM/01.md | Container & Virtual Machine | containers-and-vms/index.md | stub (22 baris) |
-| 03/08Container-VM/02.md | Chroot & Container | containers-and-vms/chroot.md | draft (107 baris) |
-| 03/08Container-VM/03.md | Libvirt | containers-and-vms/libvirt.md | draft (67 baris) |
-| 03/08Container-VM/04.md | LXC | containers-and-vms/lxc.md | draft (170 baris) |
-| 03/08Container-VM/05.md | KVM | — (khas T4n OS, KVM) | draft (233 baris) |
-| 03/08Container-VM/06.md | Qemu | — (khas T4n OS, Qemu) | draft (363 baris) |
-| 03/08Container-VM/07.md | VMWare | — (khas T4n OS, VMWare) | draft (212 baris) |
-| 03/08Container-VM/08.md | VirtualBox Oracle | — (khas T4n OS, VirtualBox Oracle) | draft (255 baris) |
-| 03/08Container-VM/android/01.md | Android | — (pengantar khas T4n OS) | stub (16 baris) |
-| 03/08Container-VM/android/02.md | Waydroid - X11 | — (khas T4n OS, Waydroid X11) | draft (240 baris) |
-| 03/08Container-VM/android/03.md | Waydroid - Wayland | — (khas T4n OS, Waydroid Wayland) | draft (320 baris) |
+| 03/07Container-VM/01.md | Container & Virtual Machine | containers-and-vms/index.md | stub (22 baris) |
+| 03/07Container-VM/02.md | Chroot & Container | containers-and-vms/chroot.md | draft (107 baris) |
+| 03/07Container-VM/03.md | Libvirt | containers-and-vms/libvirt.md | draft (67 baris) |
+| 03/07Container-VM/04.md | LXC | containers-and-vms/lxc.md | draft (170 baris) |
+| 03/07Container-VM/05.md | KVM | — (khas T4n OS, KVM) | draft (233 baris) |
+| 03/07Container-VM/06.md | Qemu | — (khas T4n OS, Qemu) | draft (363 baris) |
+| 03/07Container-VM/07.md | VMWare | — (khas T4n OS, VMWare) | draft (212 baris) |
+| 03/07Container-VM/08.md | VirtualBox Oracle | — (khas T4n OS, VirtualBox Oracle) | draft (255 baris) |
+| 03/07Container-VM/android/01.md | Android | — (pengantar khas T4n OS) | stub (16 baris) |
+| 03/07Container-VM/android/02.md | Waydroid - X11 | — (khas T4n OS, Waydroid X11) | draft (240 baris) |
+| 03/07Container-VM/android/03.md | Waydroid - Wayland | — (khas T4n OS, Waydroid Wayland) | draft (320 baris) |
 | 03/17.md | OpenPGP | openpgp.md | draft (75 baris) |
 | 04/01.md | Package Manager | xbps/index.md | draft (59 baris) |
 | 04/02.md | Advanced Usage | xbps/advanced-usage.md + troubleshooting/* | draft (145 baris) |
