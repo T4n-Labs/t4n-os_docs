@@ -21,8 +21,10 @@ Pilih display server yang akan digunakan sebagai fondasi sesi grafis.
 
 ## 3. GUI Core
 
-- [XFCE](./GUI-CORE/02.md) — Desktop environment ringan berbasis X11.
-- [XFCE Wayland](./GUI-CORE/03.md) — XFCE dengan dukungan Wayland.
+- [XFCE](./GUI-CORE/02.md) — Desktop Environment ringan berbasis X11.
+- [BSPWM(Coming Soon)](./GUI-CORE/03.md) — Window Manger X11.
+- [Cosmic DE(on Going)](./GUI-CORE/04.md) — Desktop Environment Wayland Modern.
+- [River WM(Coming Soon)](./GUI-CORE/05.md) — Window Manager Wayland
 
 ## 4. GUI Extra
 
