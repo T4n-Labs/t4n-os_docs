@@ -111,7 +111,7 @@
       - [Tor Mirror](./04/repository/mirror/03.md)
   - [XBPS-SRC](./04/xbps-src/01.md)
   - [Let-X](./04/let-x/01.md)
-- [VUR](./vur/00.md)
+<!-- - [VUR](./vur/00.md)
   - [Pengenalan](./vur/01.md)
   - [Sejarah](./vur/02.md)
   - [Struktur VUR](./vur/03.md)
@@ -119,4 +119,4 @@
   - [Keamanan & etika](./vur/05.md)
   - [Maintainer VUR](./vur/dev/00.md)
     - [Cara Berkontribusi](./vur/dev/01.md)
-    - [Panduan Template](./vur/dev/02.md)
+    - [Panduan Template](./vur/dev/02.md) -->
